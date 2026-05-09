@@ -6,8 +6,8 @@ import random
 import json
 
 
-key2 = 'AIzaSyAnqg0wXE85yPRcqOHc7dPO6zzkxJQLV4Q'
-gs.configure(api_key='AIzaSyAzyKWVhZcy34DTNF_pan3lh73rX8YA8iY')
+# key2 = 'AIzaSyAnqg0wXE85yPRcqOHc7dPO6zzkxJQLV4Q'
+# gs.configure(api_key='AIzaSyAzyKWVhZcy34DTNF_pan3lh73rX8YA8iY')
 
 app = Flask(__name__)
 
